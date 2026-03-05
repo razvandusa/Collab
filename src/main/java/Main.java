@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("This is a test");
         int test1 = 21;
-        string realitatea = "LORAND E GRAS";
+        String realitatea = "LORAND E GRAS";
     }
 }
